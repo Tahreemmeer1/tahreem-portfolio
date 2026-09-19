@@ -250,7 +250,7 @@ function App() {
 
               <div className="experience-content">
                 <h3>Frontend Web Development Intern</h3>
-                <p className="company-name">Dawood Tech Next Gen</p>
+                <p className="company-name">DawoodTech NextGen</p>
 
                 <p>
                   Working on frontend web development tasks and gaining
